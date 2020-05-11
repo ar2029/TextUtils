@@ -1,3 +1,0 @@
-hi
-this is django learning series
-task given by harry in #5 to print content os 1.txt file
