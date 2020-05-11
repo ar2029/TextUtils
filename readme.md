@@ -1,4 +1,7 @@
-After cloning the repo run the command in terminal: 'python manage.py runserver' from the cureent directory
+NOTE:   After cloning the repo RUN the COMMAND in terminal: 'python manage.py runserver' from the current directory
+
+
+
 
 
 
