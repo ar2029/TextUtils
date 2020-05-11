@@ -100,10 +100,3 @@ NOTE:   After cloning the repo RUN the COMMAND in terminal: 'python manage.py ru
 
     CSRF - Cross site Request Forgery
     <form> {% csrf_token %} </form> tag (index.html) mein csrf diya tha and (views.py) mein *djtext = request.POST.get('text', 'default')* 'POST' diya tha jisse ki hmara content url mein show na ho isse jab text ki lenghth ho jaati h vo bhi handle ho jaati h kyunki URL ka kuch definite size hota hai
-
-
-
-
--->         Exercise 2 Solution + Shoutouts | Python Django Tutorials In Hindi #17
-    
-    
