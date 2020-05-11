@@ -1,3 +1,7 @@
+After cloning the repo run the command in terminal: 'python manage.py runserver' from the cureent directory
+
+
+
 -->         Laying the pipeline | Python Django Tutorials In Hindi #7
 
     isme humne urls.py file endpoints wala kuch dekha tha
